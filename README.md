@@ -1,2 +1,1 @@
-# noob_coder
-Learning to code
+# Welcome to my Repositiory of Code
