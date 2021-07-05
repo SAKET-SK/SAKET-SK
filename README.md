@@ -17,6 +17,21 @@
 <br>
 
 <br>
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/4a90e2/css3.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/4a90e2/javascript--v1.png" />]
+[<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />]
+[<img align="left" alt="Unity 3D" width="26px" src="https://img.icons8.com/fluent/48/4a90e2/unity.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github.png" />]
+
+<br>
+
+<br>
 Latest Blog Posts:
 
 - [The Ultimate Formula to Crack Exam Fear : Do’s and Don’ts](https://saket910.medium.com/the-ultimate-formula-to-crack-exam-fear-dos-and-don-ts-7dd5df503b1)
