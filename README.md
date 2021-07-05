@@ -17,7 +17,7 @@
 <br>
 
 <br>
-Languages and Tools:
+Languages and Tools: 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png" />]
