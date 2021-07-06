@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything (Multi-tasker)🤣
 - 👯 I’m looking to collaborate with internship offering companies
 - 🥅 Goals: Learn everything as much as I can
-- ⚡ Fun fact: I am a serious Gamer
+- ⚡ Fun fact: I spend 10 hours a day SLEEPING, 5 hours STUDYING/CODING and remaining obiviously GAMING!!!
 
 ### Connect with me:
 
