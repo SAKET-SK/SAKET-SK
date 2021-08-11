@@ -42,6 +42,8 @@
 ### Github Stats:
 [![Saket's github stats](https://github-readme-stats.vercel.app/api?username=SAKET-SK)](https://github.com/SAKET-SK/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&layout=compact&theme=radical)
+
 
 [twitter]: https://twitter.com/saketkhopkar478
 [youtube]: https://www.youtube.com/channel/UCkMeHfoT2WhxWE3RWjD1JcQ
