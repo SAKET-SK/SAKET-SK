@@ -15,16 +15,16 @@
 
 <br>
 
-### Languages and Tools: 
+#### Languages & Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/4a90e2/css3.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/4a90e2/javascript--v1.png" />]
-[<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />]
-[<img align="left" alt="Unity 3D" width="26px" src="https://img.icons8.com/fluent/48/4a90e2/unity.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github.png" />]
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 
 <br>
 
@@ -43,6 +43,9 @@
 [![Saket's github stats](https://github-readme-stats.vercel.app/api?username=SAKET-SK)](https://github.com/SAKET-SK/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&layout=compact&theme=radical)
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/SAKET-SK/count.svg)
 
 
 [twitter]: https://twitter.com/saketkhopkar478
