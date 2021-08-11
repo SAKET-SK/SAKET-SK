@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
 
 <br>
 
@@ -27,6 +27,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
+
 <br>
 
 ### Latest Blog Posts:
@@ -37,7 +38,6 @@
 - [Brain-Computer Interfaces are Incoming: Are we prepared?](https://saket910.medium.com/brain-computer-interfaces-are-incoming-are-we-prepared-9fac26514a4e)
 - [The story of self improvement: Tips to master](https://saket910.medium.com/the-story-of-self-improvement-tips-to-master-5d392c040353)
 <br>
-
 
 
 ### Github Stats:
