@@ -6,6 +6,8 @@
 - 🥅 Goals: Learn everything as much as I can
 - ⚡ Fun fact: I spend 10 hours a day SLEEPING, 5 hours STUDYING/CODING and remaining obiviously GAMING!!!
 
+### Scroll Down to view my exquisite collection of projects!!!
+
 ### Connect with me:
 
 [<img align="left" alt="YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
