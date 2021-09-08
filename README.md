@@ -2,9 +2,9 @@
 ### Hi there, I'm Saket - aka [SK] 👋
 ## I am Student , Programmer, Designer , Writer and Gamer
 - 🌱 I’m currently learning everything (Multi-tasker)🤣
-- 👯 I’m looking to collaborate with internship offering companies
+- 👯 I’m looking for suitable job opportunities.
 - 🥅 Goals: Learn everything as much as I can
-- ⚡ Fun fact: I spend 10 hours a day SLEEPING, 5 hours STUDYING/CODING and remaining obiviously GAMING!!!
+- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life.
 
 ### Scroll Down to view my exquisite collection of projects!!!
 
