@@ -14,6 +14,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Quora" width="22px" src="https://img.icons8.com/color/48/000000/quora.png" />][quora]
 
 <br>
 
@@ -52,4 +53,6 @@
 [youtube]: https://www.youtube.com/channel/UCkMeHfoT2WhxWE3RWjD1JcQ
 [instagram]: https://instagram.com/mystic.saket_910
 [linkedin]: https://www.linkedin.com/in/saket-khopkar-336684198/
+[quora]: https://www.quora.com/profile/Saket-Khopkar-2
+
 
