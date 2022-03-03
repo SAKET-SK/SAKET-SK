@@ -1,6 +1,6 @@
 ### Welcome to my Repositiory of Code
 ### Hi there, I'm Saket - aka [SK] 👋
-## I am Student , Programmer, Designer , Writer and Gamer
+## I am Student , Programmer, Designer , Content Writer and Gamer
 - 🌱 I’m currently learning everything (Multi-tasker)🤣
 - 👯 I’m looking for suitable job opportunities.
 - 🥅 Goals: Learn everything as much as I can
