@@ -4,7 +4,10 @@ Hi 👋 My name is Saket Khopkar
 I am Student , Programmer, Designer , Content Writer and Avid Gamer
 -------------------------------------------------------------------
 
-🌱 I’m currently learning everything (Multi-tasker)🤣 👯 I’m looking for suitable job opportunities. 🥅 Goals: Learn everything as much as I can ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life.
+- 🌱 I’m currently learning everything (Multi-tasker)🤣 
+- 👯 I’m looking for suitable job opportunities. 
+- 🥅 Goals: Learn everything as much as I can 
+- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [saketkhopkar910@gmail.com](mailto:saketkhopkar910@gmail.com)
