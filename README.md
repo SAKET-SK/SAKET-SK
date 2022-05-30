@@ -1,16 +1,15 @@
 Hi 👋 My name is Saket Khopkar
 ==============================
 
-I am Student , Programmer, Designer , Content Writer and Avid Gamer
+I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer ✍ and Avid Gamer 🎮
 -------------------------------------------------------------------
 
-- 🌱 I’m currently learning everything (Multi-tasker)🤣 
+- 🌱 I’m currently learning everything (Multi-tasker) 
 - 👯 I’m looking for suitable job opportunities. 
 - 🥅 Goals: Learn everything as much as I can 
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [saketkhopkar910@gmail.com](mailto:saketkhopkar910@gmail.com)
+- 🌍  I'm based in India 
+- ✉️  You can contact me at [saketkhopkar910@gmail.com](mailto:saketkhopkar910@gmail.com)
 
 <a href="https://www.twitter.com/saketkhopkar478" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/saketkhopkar478?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -47,8 +46,8 @@ src="https://img.shields.io/github/followers/SAKET-SK?logo=github&style=for-the-
 ### 📕 My Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Education and Technology](https://saketrobotics910.blogspot.com/)
-- [Psychology](https://saketkhopkar567.blogspot.com/)
-- [Games and E-Sports](https://www.blogger.com/blog/posts/3483557126945962362)
+- [Psychology 🧠](https://saketkhopkar567.blogspot.com/)
+- [Games and E-Sports 🎮](https://www.blogger.com/blog/posts/3483557126945962362)
 <!-- BLOG-POST-LIST:END -->
 
 ## :trophy: Git profile Trophies
@@ -60,12 +59,11 @@ src="https://img.shields.io/github/followers/SAKET-SK?logo=github&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SAKET-SK"><img src="https://github-readme-stats.vercel.app/api?username=SAKET-SK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SAKET-SK's GitHub stats" /></a>
-
 <a href="http://www.github.com/SAKET-SK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/SAKET-SK"><img src="https://activity-graph.herokuapp.com/graph?username=SAKET-SK&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/SAKET-SK" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/SAKET-SK" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Frequently Used Languages" /></a>
 
 
 
