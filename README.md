@@ -7,9 +7,9 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 - 🌱 I’m currently learning everything (Multi-tasker) 
 - 👯 I’m looking for suitable job opportunities. 
 - 🥅 Goals: Learn everything as much as I can 
-- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life.
-- 🌍  I'm based in India 
-- ✉️  You can contact me at [saketkhopkar910@gmail.com](mailto:saketkhopkar910@gmail.com)
+- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life here.
+- 🌍 I'm based in India 
+- ✉️ You can contact me at [saketkhopkar910@gmail.com](mailto:saketkhopkar910@gmail.com)
 
 <a href="https://www.twitter.com/saketkhopkar478" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/saketkhopkar478?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
