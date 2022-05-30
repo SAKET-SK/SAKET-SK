@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/SAKET-SK?logo=github&style=for-the-
 
 <a href="http://www.github.com/SAKET-SK"><img src="https://activity-graph.herokuapp.com/graph?username=SAKET-SK&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/SAKET-SK" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Frequently Used Languages" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="SAKET-SK" /></p>
 
 
 
