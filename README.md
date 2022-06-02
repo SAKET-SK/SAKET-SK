@@ -59,7 +59,7 @@ src="https://img.shields.io/github/followers/SAKET-SK?logo=github&style=for-the-
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SAKET-SK&layout=compact&theme=algolia" alt="SAKET-SK" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Statistics
 
