@@ -16,6 +16,7 @@ src="https://img.shields.io/twitter/follow/saketkhopkar478?logo=twitter&style=fo
 /></a><a href="https://www.github.com/SAKET-SK" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SAKET-SK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![](https://komarev.com/ghpvc/?username=SAKET-SK)
+
 <a href="https://open.spotify.com/user/31ntw5qmcomtfbjqqsowignhc5pq" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 <a href="https://saket-sk.github.io/" target="_blank">My Portfolio Website</a>
