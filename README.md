@@ -60,7 +60,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Statistics
+### 📊 Statistics
 
 <b>My GitHub Stats</b>
 
