@@ -52,7 +52,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 
 ### 📕 My Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Education and Technology](https://saketrobotics910.blogspot.com/)
+- [Education and Technology 👨‍🎓](https://saketrobotics910.blogspot.com/)
 - [Psychology 🧠](https://saketkhopkar567.blogspot.com/)
 - [Games and E-Sports 🎮](https://www.blogger.com/blog/posts/3483557126945962362)
 <!-- BLOG-POST-LIST:END -->
