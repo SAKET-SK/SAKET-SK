@@ -15,7 +15,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 
 <a href="https://saket-sk.github.io/" target="_blank">My Portfolio Website</a>
 
-<a href="https://www.slideshare.net/SaketKhopkar">Notes on SlideShare</a>
+<a href="https://www.slideshare.net/SaketKhopkar">Study Notes on SlideShare</a>
 
 ### ⭐ Skills
 
