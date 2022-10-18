@@ -15,9 +15,6 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 /></a> <a href="https://www.github.com/SAKET-SK" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/SAKET-SK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![](https://komarev.com/ghpvc/?username=SAKET-SK)
 
-[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ntw5qmcomtfbjqqsowignhc5pq)
-
-
 <a href="https://saket-sk.github.io/" target="_blank">My Portfolio Website</a>
 
 ### ⭐ Skills
@@ -49,6 +46,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <a href="https://www.twitter.com/saketkhopkar478"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.github.com/SAKET-SK"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://auth.geeksforgeeks.org/user/saketkhopkar910/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
+<a href="https://open.spotify.com/user/31ntw5qmcomtfbjqqsowignhc5pq"><img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.quora.com/profile/Saket-Khopkar-2"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
 <a href="https://www.hackerrank.com/saketkhopkar478"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 <a href="https://www.hackerearth.com/@saketkhopkar910"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
