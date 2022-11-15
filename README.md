@@ -53,7 +53,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <a href="https://www.upwork.com/freelancers/~019eb7c321f650c4f5?s=1110580750812958720"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198993940201/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
 
-### 📕 My Blog posts:
+### ✍️ My Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Education and Technology 👨‍🎓](https://saketrobotics910.blogspot.com/)
 - [Psychology 🧠](https://saketkhopkar567.blogspot.com/)
@@ -62,11 +62,9 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 
 ## :trophy: Git profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=radical)](https://github.com/SAKET-SK/github-profile-trophy)
 
 ### 📊 Statistics
-
-<b>My GitHub Stats</b>
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SK&theme=radical"/>
