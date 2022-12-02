@@ -55,6 +55,11 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <a href="https://www.upwork.com/freelancers/~019eb7c321f650c4f5?s=1110580750812958720"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198993940201/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
 
+### 💻 My Workspace:
+<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
 ### ✍️ My Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Education and Technology 👨‍🎓](https://saketrobotics910.blogspot.com/)
