@@ -1,7 +1,7 @@
 Hi 👋 My name is Saket Khopkar
 ==============================
 
-I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer ✍ and Avid Gamer 🎮
+I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer ✍ and Avid Gamer 🎮 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
 -------------------------------------------------------------------
 
 - 🌱 I’m currently learning Web Development and Blockchain
@@ -60,6 +60,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
 ### ✍️ Blog posts:
