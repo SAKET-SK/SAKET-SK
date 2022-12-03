@@ -55,7 +55,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <a href="https://www.upwork.com/freelancers/~019eb7c321f650c4f5?s=1110580750812958720"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198993940201/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
 
-### 💻 Workspace Specs:
+### 💻 Workspace Specs (On and Off the work):
 
 <p>
 <img src="https://img.shields.io/badge/NVIDIA-GEFORCEGTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
