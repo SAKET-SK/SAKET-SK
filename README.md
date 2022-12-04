@@ -80,9 +80,10 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 - [Games and E-Sports 🎮](https://www.blogger.com/blog/posts/3483557126945962362)
 <!-- BLOG-POST-LIST:END -->
 
-### :trophy: Git profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=radical)](https://github.com/SAKET-SK/github-profile-trophy)
-
+### 🏆 Git profile Trophies:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=radical)](https://github.com/SAKET-SK/github-profile-trophy">
+</p>
 ### 📊 Statistics
 
 <p align="left">
