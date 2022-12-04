@@ -58,7 +58,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 ### 💻 Workspace Specs (On and Off the work):
 
 <p>
-<img src="https://img.shields.io/badge/NVIDIA-GEFORCEGTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA-GEFORCE_GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
