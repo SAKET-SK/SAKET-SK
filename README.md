@@ -79,7 +79,6 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <!-- BLOG-POST-LIST:END -->
 
 ### :trophy: Git profile Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=radical)](https://github.com/SAKET-SK/github-profile-trophy)
 
 ### 📊 Statistics
