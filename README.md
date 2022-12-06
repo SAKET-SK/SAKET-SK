@@ -13,7 +13,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 - 📌 <a href="https://saket-sk.github.io/" target="_blank">My Portfolio Website</a>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=SAKET-SK&style=for-the-badge">
 
 <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SAKET-SK">
 </p>
