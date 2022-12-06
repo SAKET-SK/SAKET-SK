@@ -10,6 +10,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life on Github.
 - 🌍 I'm based in India 
 - ✉️ You can contact me at [saketkhopkar910@gmail.com](mailto:saketkhopkar910@gmail.com)
+- 📌 <a href="https://saket-sk.github.io/" target="_blank">My Portfolio Website</a>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SAKET-SK">
@@ -17,7 +18,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SAKET-SK">
 </p>
 
-<a href="https://saket-sk.github.io/" target="_blank">My Portfolio Website</a>
+
 
 ### ⭐ Skills
 
