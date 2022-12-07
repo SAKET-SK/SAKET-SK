@@ -79,9 +79,9 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 
 ### ✍️ Blog posts:
 <p align="center">
-<a href="https://saketrobotics910.blogspot.com/"><img src="https://img.shields.io/badge/EduTech-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-<a href="https://saketkhopkar567.blogspot.com/"><img src="https://img.shields.io/badge/Psychology-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-<a href="https://saketskgames.blogspot.com/"><img src="https://img.shields.io/badge/Games-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+<a href="https://saketrobotics910.blogspot.com/"><img src="https://img.shields.io/badge/EduTech👨‍🎓-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+<a href="https://saketkhopkar567.blogspot.com/"><img src="https://img.shields.io/badge/Psychology🧠-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+<a href="https://saketskgames.blogspot.com/"><img src="https://img.shields.io/badge/Games🎮-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
 </p>
   
 ### 🏆 Git profile Trophies:
