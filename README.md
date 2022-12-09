@@ -72,7 +72,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://img.shields.io/badge/google_maps-1EA362?style=for-the-badge&logo=googlemaps&logoColor=red">
 <br />
 <br />
-<img src="https://img.shields.io/badge/Counter_Strike_Global_Offensive-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
+<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
 <img src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white">
 <img src="https://img.shields.io/badge/Garena_Free_Fire-D12228?style=for-the-badge&logo=Garena&logoColor=white">
 </p>
