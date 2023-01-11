@@ -99,3 +99,5 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK)
 <a href="http://www.github.com/SAKET-SK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
