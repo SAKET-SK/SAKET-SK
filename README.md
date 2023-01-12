@@ -59,7 +59,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <a href="https://www.upwork.com/freelancers/~019eb7c321f650c4f5?s=1110580750812958720"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198993940201/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
 
-### 💻 Workspace Specs (On and Off the work):
+### 💻 Workspace Specs:
 
 <p align="center">
 <img src="https://img.shields.io/badge/NVIDIA-GEFORCE_GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
@@ -67,14 +67,11 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://img.shields.io/badge/Samsung_phone-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/google_maps-1EA362?style=for-the-badge&logo=googlemaps&logoColor=red">
+
 <br />
 <br />
-<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
-<img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white">
-<img src="https://img.shields.io/badge/Garena_Free_Fire-D12228?style=for-the-badge&logo=Garena&logoColor=white">
+
 </p>
 
 ### ✍️ Blog posts:
