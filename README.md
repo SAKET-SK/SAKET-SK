@@ -78,20 +78,21 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
   
 ### 🏆 Git profile Trophies:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=radical)](https://github.com/SAKET-SK/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=highcontrast)](https://github.com/SAKET-SK/github-profile-trophy">
 </p>
 
 ### 📊 Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SK&theme=radical" width='450'/>
-   <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAKET-SK&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='400'/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SK&theme=vue" width='550' /> 
+   <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAKET-SK&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast' width='350'/>
 </p>
 
-  
-[![Saket's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAKET-SK&theme=react-dark)](https://github.com/SAKET-SK/github-readme-activity-graph)
+[![Saket's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAKET-SK&theme=highcontrast)](https://github.com/SAKET-SK/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK)
-<a href="http://www.github.com/SAKET-SK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&theme=highcontrast" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&theme=highcontrast" /></a>
+</p>
   
 ### Note: "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
