@@ -84,7 +84,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 ### 📊 Statistics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SK&theme=vue" width='550' /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SK&theme=vue" width='450' /> 
    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAKET-SK&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast' width='350'/>
 </p>
 
