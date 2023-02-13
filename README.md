@@ -5,7 +5,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 -------------------------------------------------------------------
 
 - 🌱 I’m currently learning Web Development and Blockchain
-- 👯 I’m looking for suitable job opportunities. 
+- 🔍 I’m looking for suitable job opportunities. 
 - 🥅 Goals: Learn everything as much as I can 
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life on Github.
 - 🌍 I'm based in India 
