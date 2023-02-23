@@ -4,7 +4,7 @@ Hi 👋 My name is Saket Khopkar
 I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer ✍ and Avid Gamer 🎮 
 -------------------------------------------------------------------
 
-- 🌱 I’m currently learning Web Development and Blockchain
+- 🌱 I’m currently learning Web Development {{ Angular }} 
 - 🔍 I’m looking for suitable job opportunities. 
 - 🥅 Goals: Learn everything as much as I can 
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life on Github.
