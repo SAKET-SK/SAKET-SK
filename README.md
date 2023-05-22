@@ -51,6 +51,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <a href="https://wakatime.com/@saket_910"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"></a>
 <a href="https://www.hackerrank.com/saketkhopkar478"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 <a href="https://www.sololearn.com/profile/15461298"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
+<a href="https://dev.to/saketsk910"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 <a href="https://www.hackerearth.com/@saketkhopkar910"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
 <a href="https://www.upwork.com/freelancers/~019eb7c321f650c4f5?s=1110580750812958720"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 <a href="https://steamcommunity.com/profiles/76561198993940201/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></p>
