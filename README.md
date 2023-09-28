@@ -4,10 +4,10 @@ Hi 👋 My name is Saket Khopkar
 I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer ✍ and Avid Gamer 🎮 
 -------------------------------------------------------------------
 
-- 🌱 I’m currently learning Web Development {{ Angular }} 
-- 🔍 I’m looking for suitable job opportunities. 
+- 🌱 I’m currently learning and exploring Web Development {{ Angular,NodeJS }} 
+- 🏢 I’m working as a System Engineer Trainee for Chatbot Development.
 - 🥅 Goals: Learn everything as much as I can 
-- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I did in my entire life on Github.
+- ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
 - 🌍 I'm based in India 
 - ✉️ You can contact me at [saketkhopkar910@gmail.com](mailto:saketkhopkar910@gmail.com)
 - 📌 <a href="https://saket-sk.github.io/" target="_blank">My Portfolio Website</a>
