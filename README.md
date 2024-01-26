@@ -90,8 +90,6 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAKET-SK&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast' width='350'/>
 </p>
 
-[![Saket's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAKET-SK&theme=highcontrast)](https://github.com/SAKET-SK/github-readme-activity-graph)
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&theme=highcontrast" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&theme=highcontrast" /></a>
