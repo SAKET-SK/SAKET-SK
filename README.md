@@ -4,7 +4,7 @@ Hi 👋 My name is Saket Khopkar
 I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer ✍ and Avid Gamer 🎮 
 -------------------------------------------------------------------
 
-- 🌱 I’m currently learning and exploring Web Development {{ Angular,NodeJS }} 
+- 🌱 I’m currently learning and exploring Web Development {{ Oracle Digital Assistant }} 
 - 🏢 I’m working as a System Engineer Trainee for Chatbot Development.
 - 🥅 Goals: Learn everything as much as I can 
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
@@ -29,6 +29,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle%20Digital%20Assistant-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
