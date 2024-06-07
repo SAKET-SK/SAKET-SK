@@ -46,6 +46,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <a href="https://www.github.com/SAKET-SK"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://hashnode.com/@SSK910"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://auth.geeksforgeeks.org/user/saketkhopkar910/"><img src="https://img.shields.io/badge/Geeks_for_Geeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
+<a href="https://community.oracle.com/customerconnect/profile/discussions/Saket%20Khopkar"><img src="https://img.shields.io/badge/Oracle%20Community-F80000?style=for-the-badge&logo=oracle&logoColor=black"></a>
 <a href="https://open.spotify.com/user/31ntw5qmcomtfbjqqsowignhc5pq"><img src = "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.slideshare.net/SaketKhopkar"><img src="https://img.shields.io/badge/Slideshare-0077B5?style=for-the-badge&logo=slideshare&logoColor=white"></a>
 <a href="https://www.quora.com/profile/Saket-Khopkar-2"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
