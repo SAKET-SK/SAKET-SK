@@ -8,7 +8,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 - 🏢 I’m a Junior Software Engineer in the Digital Assistant / Chatbot Development domain.
 - 🥅 Goals: Learn everything as much as I can 
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
-- 🌍 I'm based in India 
+- 🌍 I'm based in Pune - Maharashtra, India 
 - ✉️ You can contact me at [saketkhopkar910@gmail.com](mailto:saketkhopkar910@gmail.com)
 - 📌 <a href="https://saket-sk.github.io/" target="_blank">My Portfolio Website</a>
 
