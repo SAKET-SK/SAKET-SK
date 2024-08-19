@@ -20,7 +20,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 
 
 
-### ⭐ Skills and Tools
+### ⭐ Skills and Tools:
 
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -37,7 +37,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
-### 🤙 Socials
+### 🤙 Socials:
 
 <p align="center">  
 <a href="http://www.instagram.com/saket_910"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -86,7 +86,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=highcontrast)](https://github.com/SAKET-SK/github-profile-trophy">
 </p>
 
-### 📊 Statistics
+### 📊 Statistics:
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SK&theme=vue" width='450' /> 
