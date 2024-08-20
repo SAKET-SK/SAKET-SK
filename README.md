@@ -42,7 +42,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <p align="center">  
 <a href="http://www.instagram.com/saket_910"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/saket-khopkar/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.twitter.com/saketkhopkar478"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.x.com/saketkhopkar478"><img src = "https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="https://www.github.com/SAKET-SK"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://hashnode.com/@SSK910"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://auth.geeksforgeeks.org/user/saketkhopkar910/"><img src="https://img.shields.io/badge/Geeks_for_Geeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
