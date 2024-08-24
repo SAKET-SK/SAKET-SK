@@ -89,7 +89,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 ### 📊 Statistics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saket_910&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saket_910&layout=compact&theme=highcontrast" width='500'>
 </p>
 
 <p align="center">
