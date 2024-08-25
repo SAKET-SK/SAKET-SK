@@ -102,4 +102,4 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&theme=highcontrast" /></a>
 </p>
   
-### Note: "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+### Important Note: "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
