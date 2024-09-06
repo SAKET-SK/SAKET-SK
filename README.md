@@ -30,6 +30,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle%20Digital%20Assistant-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=44883E">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -63,7 +64,7 @@ I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer 
 
 <p align="center">
 <img src="https://img.shields.io/badge/NVIDIA-GEFORCE_GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img src="https://img.shields.io/badge/Intel%20Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/Intel%20Core_i5_9th%20Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
 <img src="https://img.shields.io/badge/Samsung_phone-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
