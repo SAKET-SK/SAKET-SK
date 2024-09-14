@@ -1,7 +1,7 @@
 Hi 👋 My name is Saket Khopkar
 ==============================
 
-I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Content Writer ✍ and Avid Gamer 🎮 
+I am Student 👨‍🎓, Programmer 👨‍💻, Designer 😃, Tech Content Writer ✍ and Avid Gamer 🎮 
 -------------------------------------------------------------------
 
 - 🌱 I’m currently learning and exploring Web Development {{ Oracle Digital Assistant }} 
