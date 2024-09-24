@@ -15,7 +15,7 @@ I am Student (for life) 👨‍🎓, Programmer 👨‍💻, Designer 😃, Tech
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SAKET-SK&style=for-the-badge">
 
-<img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=322514&labelColor=BE1558&label=Stars%20Earned&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/SAKET-SK">
+<img src="https://img.shields.io/github/stars/SAKET-SK?label=Stars%20Earned">
 </p>
 
 
