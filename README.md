@@ -46,6 +46,7 @@ I am Student (for life) 👨‍🎓, Programmer 👨‍💻, Designer 😃, Tech
 <a href="https://www.x.com/saketkhopkar478"><img src = "https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="https://www.github.com/SAKET-SK"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://hashnode.com/@SSK910"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+<a href="https://medium.com/@saketkhopkar910"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://maps.app.goo.gl/h6tLjZBYzpXfetdg7?g_st=ac"><img src="https://img.shields.io/badge/Google%20Maps-0F9D58?style=for-the-badge&logo=googlemaps&logoColor=DB4437"></a>
 <a href="https://auth.geeksforgeeks.org/user/saketkhopkar910/"><img src="https://img.shields.io/badge/Geeks_for_Geeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
 <a href="https://community.oracle.com/customerconnect/profile/discussions/Saket%20Khopkar"><img src="https://img.shields.io/badge/Oracle%20Community-F80000?style=for-the-badge&logo=oracle&logoColor=black"></a>
