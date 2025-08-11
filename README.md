@@ -4,7 +4,7 @@ Hi 👋 My name is Saket Khopkar
 I am Student (for life) 👨‍🎓, Programmer 👨‍💻, AI Enthusiast 😃, Technical Content Writer ✍ and Avid Gamer 🎮 
 -------------------------------------------------------------------
 
-- 🌱 I’m currently learning and exploring Web Development {{ Oracle Digital Assistant }} 
+- 🌱 I’m currently learning and exploring Generative AI & AI Agents {{ Oracle Digital Assistant }} 
 - 🏢 I’m a Junior Software Engineer in the Digital Assistant / Chatbot Development domain.
 - 🥅 Goals: Learn everything as much as I can.
 - ⚡ Fun fact: I tend to push EVERY BIT OF CODE I have done in my entire life on GitHub.
