@@ -44,6 +44,7 @@ I am Student (for life) 👨‍🎓, Programmer 👨‍💻, AI Enthusiast 😃,
 <a href="http://www.instagram.com/saket_910"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/saket-khopkar/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.x.com/saketkhopkar478"><img src = "https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://www.youtube.com/@saketkhopkar7259"><img src ="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.coursera.org/user/e87e329b3f4f38ffa29c60275e13d65f"><img src = "https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
 <a href="https://developers.google.com/profile/u/mysticdeveloper"><img src="https://img.shields.io/badge/Google_For_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="https://www.github.com/SAKET-SK"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
