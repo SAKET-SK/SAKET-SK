@@ -31,7 +31,7 @@ I am Student (for life) 👨‍🎓, Programmer 👨‍💻, AI Enthusiast 😃,
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle%20Digital%20Assistant-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=44883E">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
