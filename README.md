@@ -155,13 +155,6 @@ const saket = {
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## ✍️ My Blogs & Content
 
 <div align="center">
