@@ -88,7 +88,6 @@ const saket = {
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@saketkhopkar7259)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](http://www.instagram.com/saket_910)
 [![X](https://img.shields.io/badge/X-000000.svg?style=flat-square&logo=X&logoColor=white)](https://www.x.com/saketkhopkar478)
-
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saketkhopkar478)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-gray?style=flat-square&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/saketkhopkar910/)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/user/e87e329b3f4f38ffa29c60275e13d65f)
@@ -96,8 +95,14 @@ const saket = {
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019eb7c321f650c4f5?s=1110580750812958720)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198993940201/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ntw5qmcomtfbjqqsowignhc5pq)
-
-[🔗 More Links](https://linktr.ee/saket_sk) • [📧 Email](mailto:saketkhopkar910@gmail.com) • [🌐 Portfolio](https://saket-sk.github.io/)
+[![Oracle](https://img.shields.io/badge/Oracle%20Community-F80000?style=flat-square&logo=oracle&logoColor=black)](https://community.oracle.com/customerconnect/profile/discussions/Saket%20Khopkar)
+[![Google Dev](https://img.shields.io/badge/Google%20Dev-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/mysticdeveloper)
+[![Credly](https://img.shields.io/badge/Credly-ff5733?style=flat-square&logo=Credly&logoColor=white)](https://www.credly.com/users/saket-khopkar.28bb916a)
+[![SlideShare](https://img.shields.io/badge/Slideshare-0077B5?style=flat-square&logo=slideshare&logoColor=white)](https://www.slideshare.net/SaketKhopkar)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=flat-square&logo=Quora&logoColor=white)](https://www.quora.com/profile/Saket-Khopkar-2)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=flat-square&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@saketkhopkar910)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/15461298)
+[![Maps](https://img.shields.io/badge/Google%20Maps-0F9D58?style=flat-square&logo=googlemaps&logoColor=DB4437)](https://maps.app.goo.gl/h6tLjZBYzpXfetdg7?g_st=ac)
 
 </div>
 
