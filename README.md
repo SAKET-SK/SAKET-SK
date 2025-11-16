@@ -4,7 +4,7 @@
 
 ### 🚀 Junior Software Engineer | AI Enthusiast | Digital Assistant Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+for+Life+%F0%9F%93%9A;Generative+AI+Explorer+%F0%9F%A4%96;Chatbot+Development+Specialist+%F0%9F%92%AC;Pushing+Code+Like+There's+No+Tomorrow!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+for+Life+%F0%9F%93%9A;Generative+AI+Explorer+%F0%9F%A4%96;Conversational+AI+Specialist+%F0%9F%92%AC;Pushing+Code+Like+There's+No+Tomorrow!" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAKET-SK&style=flat-square&color=00D9FF">
