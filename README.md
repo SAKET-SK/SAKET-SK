@@ -155,6 +155,19 @@ const saket = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 November 2025 - To: 15 November 2025
+
+Total Time: 2 hrs 57 mins
+
+Python   2 hrs 51 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.64 %
+Bash     2 mins          -------------------------   01.56 %
+TOML     2 mins          -------------------------   01.46 %
+Text     0 secs          -------------------------   00.25 %
+Other    0 secs          -------------------------   00.09 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
