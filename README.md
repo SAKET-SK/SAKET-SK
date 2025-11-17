@@ -139,6 +139,8 @@ const saket = {
 
 ### 💡 *"While others dream of success, I architect it. Line by line. Commit by commit."*
 
+</div>
+
 ```javascript
 const myApproach = {
     vision: "Transform ideas into reality",
@@ -152,4 +154,4 @@ const myApproach = {
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-</div>
+
