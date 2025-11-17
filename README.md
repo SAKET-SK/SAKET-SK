@@ -93,6 +93,24 @@ const saket = {
 
 ---
 
+## ✍️ Blog & Content Platforms
+
+<div align="center">
+
+[![AI-ML-DS](https://img.shields.io/badge/Honors%20of%20AI--ML--DS-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://learnaimldswithsk.hashnode.dev/)
+[![EdTech](https://img.shields.io/badge/EdTech%20Blog%20Center-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://saketrobotics910.blogspot.com/)
+[![Technical](https://img.shields.io/badge/Technical%20Blogs-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://saketsk.hashnode.dev/)
+[![Newsletter](https://img.shields.io/badge/Psyche%20%26%20Syntax-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/psyche-syntax-7316897806626054144)
+[![Psychology](https://img.shields.io/badge/Psych%20Time-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://saketkhopkar567.blogspot.com/)
+[![JavaScript](https://img.shields.io/badge/JS%20Interview%20Prep-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://jsprep.hashnode.dev)
+[![Gaming](https://img.shields.io/badge/World%20of%20eSports-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://saketskgames.blogspot.com/)
+
+**Topics**: AI/ML/DS • Generative AI • Full Stack • JavaScript • Psychology • EdTech • Gaming
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -153,5 +171,4 @@ const myApproach = {
 ```
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 
