@@ -145,11 +145,15 @@ const saket = {
 
 ## ⚙️ Workspace
 
-![HP](https://img.shields.io/badge/HP%20Laptop-0096D6?style=flat-square&logo=hp&logoColor=white)
+<div align="center">
+
+![HP](https://img.shields.io/badge/HP%20Pavilion%20Gaming%20Laptop-0096D6?style=flat-square&logo=hp&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel%20i5%209th-0071C5?style=flat-square&logo=intel&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA%20GTX-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20GEFORCE%20GTX-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
