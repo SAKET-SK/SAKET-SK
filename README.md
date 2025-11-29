@@ -30,7 +30,8 @@ const saket = {
         "Oracle Digital Assistant Platform Solution Engineering"
     ],
     philosophy: "I don't wait for opportunities. I build them.",
-    mindset: "Code is my weapon. Innovation is my battlefield.",
+    mindset: "I am the best, no doubt about it. I don't compete with others. I outwork them.",
+    special_ability: "While they doubt, I build. While they talk, I ship.",
     contact: "saketkhopkar910@gmail.com",
     portfolio: "https://saket-sk.github.io/"
 };
@@ -143,9 +144,11 @@ const saket = {
 
 ---
 
-
+<div align="center">
 
 ### 💡 *"While others dream of success, I architect it. Line by line. Commit by commit."*
+
+</div>
 
 ```javascript
 const myApproach = {
