@@ -143,7 +143,7 @@ const saket = {
 
 ---
 
-<div align="center">
+
 
 ### 💡 *"While others dream of success, I architect it. Line by line. Commit by commit."*
 
@@ -157,6 +157,8 @@ const myApproach = {
 // The world doesn't need more coders.
 // It needs builders. Leaders. Visionaries.
 ```
+
+<div align="center">
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
