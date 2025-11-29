@@ -4,7 +4,7 @@
 
 ### 🚀 Junior Software Engineer | AI Enthusiast | Digital Assistant Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+for+Life+%F0%9F%93%9A;Generative+AI+Explorer+%F0%9F%A4%96;Conversational+AI+Specialist+%F0%9F%92%AC;Pushing+Code+Like+There's+No+Tomorrow!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+for+Life+%F0%9F%93%9A;Generative+AI+Explorer+%F0%9F%A4%96;Chatbot+Development+Specialist+%F0%9F%92%AC;Pushing+Code+Like+There's+No+Tomorrow!" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAKET-SK&style=flat-square&color=00D9FF">
@@ -67,23 +67,17 @@ const saket = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SAKET-SK&count_private=true&include_all_commits=true&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAKET-SK&theme=tokyonight&utcOffset=5.5" />
-
-![](https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/SAKET-SK/SAKET-SK/output/github-contribution-grid-snake-dark.svg)
+![](https://github-profile-trophy.vercel.app/?username=SAKET-SK&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4)
 
 </div>
 
@@ -141,23 +135,17 @@ const saket = {
 
 ## ⚙️ Workspace
 
-<div align="center">
-
-![HP](https://img.shields.io/badge/HP%20Pavilion%20Gaming%20Laptop-0096D6?style=flat-square&logo=hp&logoColor=white)
+![HP](https://img.shields.io/badge/HP%20Laptop-0096D6?style=flat-square&logo=hp&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel%20i5%209th-0071C5?style=flat-square&logo=intel&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA%20GEFORCE%20GTX-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20GTX-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
 
 ---
 
 <div align="center">
 
 ### 💡 *"While others dream of success, I architect it. Line by line. Commit by commit."*
-
-</div>
 
 ```javascript
 const myApproach = {
@@ -172,3 +160,4 @@ const myApproach = {
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
+</div>
