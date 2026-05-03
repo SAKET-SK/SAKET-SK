@@ -21,8 +21,8 @@
 ```javascript
 const saket = {
     location: "Pune, Maharashtra, India 🇮🇳",
-    role: "Junior Software Engineer @ OMFYS Technologies",
-    specialization: "Conversational AI | Chatbot Development | Oracle Digital Assistant",
+    role: "AI ML Computational Science Analyst @ Accenture",
+    specialization: "Conversational AI | Chatbot Development | Oracle Digital Assistant | LangGraph",
     expertise: ["Generative AI", "RAG", "LLMs", "NLP", "Machine Learning"],
     tech: ["Node.js", "JavaScript", "Python", "React", "MongoDB", "Oracle Cloud"],
     certifications: [
