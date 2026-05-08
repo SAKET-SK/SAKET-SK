@@ -84,6 +84,19 @@ const saket = {
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SK&theme=react" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKET-SK&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKET-SK&theme=react" />
+</div>
+
+---
+
 ## ✍️ Blog & Content Platforms
 
 <div align="center">
