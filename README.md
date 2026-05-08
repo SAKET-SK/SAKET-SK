@@ -70,6 +70,11 @@ const saket = {
   
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAKET-SK&theme=tokyonight&utcOffset=5.5" />
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  
+</div>
+
 </div>
 
 ---
