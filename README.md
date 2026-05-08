@@ -33,7 +33,7 @@ const saket = {
     mindset: "I am the best, no doubt about it. I don't compete with others. I outwork them.",
     special_ability: "While they doubt, I build. While they talk, I ship.",
     contact: "saketkhopkar910@gmail.com",
-    portfolio: "https://saket-sk.github.io/"
+    portfolio: "https://saketkhopkar.netlify.app/"
 };
 ```
 
