@@ -111,7 +111,7 @@ const saket = {
 [![Technical](https://img.shields.io/badge/Technical%20Blogs-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://saketsk.hashnode.dev/)
 [![Newsletter](https://img.shields.io/badge/Psyche%20%26%20Syntax-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/psyche-syntax-7316897806626054144)
 [![Psychology](https://img.shields.io/badge/Psych%20Time-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://saketkhopkar567.blogspot.com/)
-[![JavaScript](https://img.shields.io/badge/JS%20Interview%20Prep-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://jsprep.hashnode.dev)
+[![Python](https://img.shields.io/badge/DSA%20with%20Python-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://jsprep.hashnode.dev)
 [![Gaming](https://img.shields.io/badge/World%20of%20eSports-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://saketskgames.blogspot.com/)
 
 **Topics**: AI/ML/DS • Generative AI • Full Stack • JavaScript • Psychology • EdTech • Gaming
