@@ -35,6 +35,8 @@ Currently, I'm involved in:
 
 **Professional philosophy:** Learn continuously. Experiment fearlessly. Build things that solve real problems.
 
+Explore my pinned repositories below for hands-on projects, AI experiments, and engineering implementations.
+
 ---
 
 ## 🧠 Tech Arsenal
@@ -70,52 +72,6 @@ Currently, I'm involved in:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## ⭐ Featured Projects
-
-A selection of projects, experiments, and learning repositories from my development journey.
-
-### 1. IntelliHR — RAG + MCP
-
-An intelligent HR assistant combining Retrieval-Augmented Generation, MCP, and LLM orchestration to interact with multiple enterprise data sources.
-
-**Tech:** Python, LangChain, ChromaDB, Groq, Streamlit, MCP.
-
-[View Repository](https://github.com/SAKET-SK/RAG-MCP-Project)
-
-### 2. All About AI Lab
-
-A practical AI engineering laboratory covering Generative AI, RAG, NLP, Machine Learning, CrewAI, LangGraph, MCP, and agentic workflows.
-
-**Tech:** Python, Jupyter Notebook, LangGraph, CrewAI, RAG.
-
-[View Repository](https://github.com/SAKET-SK/All-About-AI-Lab)
-
-### 3. Full Stack AI with Python
-
-A hands-on learning and implementation repository exploring Python, LLMs, Hugging Face, Ollama, RAG, AI agents, LangGraph, and Docker.
-
-[View Repository](https://github.com/SAKET-SK/Full_Stack_AI_with_Python)
-
-### 4. Programming & Interview Preparation
-
-An open-source learning resource featuring programming exercises, Java solutions, aptitude questions, DSA, and company-specific interview preparation.
-
-[View Repository](https://github.com/SAKET-SK/Programming-Aptitude-Interview-Prep)
-
-### 5. Pothole Detection Project
-
-A computer vision project exploring pothole and traffic detection using image processing and OpenCV.
-
-[View Repository](https://github.com/SAKET-SK/Pothole-Detection-Project)
-
-### 6. Full Stack Web Development
-
-A collection of practical exercises and implementations across frontend and backend web development technologies.
-
-[View Repository](https://github.com/SAKET-SK/FULL-STACK-WEBDEV-REPO)
 
 ---
 
