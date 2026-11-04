@@ -35,6 +35,13 @@ Currently, I'm involved in:
 
 **Professional philosophy:** Learn continuously. Experiment fearlessly. Build things that solve real problems.
 
+## 📈 Building in Public
+
+I believe consistency matters more than contribution counts.
+I use GitHub to document my learning, experiment with emerging
+technologies, build practical solutions, and continuously improve
+as an engineer.
+
 Explore my pinned repositories below for hands-on projects, AI experiments, and engineering implementations.
 
 ---
