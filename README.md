@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Saket Khopkar
+# Hi, I'm Saket Khopkar
 
 ### Generative AI Engineer | Agentic AI | LLMs | LangGraph | RAG
 
@@ -17,38 +17,35 @@ Building intelligent systems, experimenting with emerging AI technologies, and t
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm an AI/ML professional at **Accenture**, working at the intersection of Generative AI, LLMs, and Agentic AI.
+I'm an AI/ML professional at **Accenture**, working at the intersection of Generative AI, LLMs, and Agentic AI. My journey started with software development and conversational AI, grew through chatbot engineering and NLP, and now focuses on building intelligent agentic workflows.
 
-My journey started with software development and conversational AI, evolved through chatbot engineering and NLP, and now focuses on building intelligent agentic workflows.
+**Education:** B.E. in Information Technology with Honors in Data Science
 
-Currently, I'm involved in:
+**Philosophy:** Learn continuously. Experiment fearlessly. Build things that solve real problems.
 
-- Building Agentic AI workflows using **LangGraph**.
-- Exploring LLM capabilities, architectures, tools, and emerging frameworks.
-- Evaluating agentic patterns and helping technical teams make informed technology decisions.
-- Experimenting with RAG, MCP, multi-agent systems, and LLM orchestration.
-- Turning technical concepts into practical, working implementations.
+## What I Do
 
-**Background:** B.E. in Information Technology with Honors in Data Science.
+- Build agentic AI workflows using **LangGraph**
+- Explore LLM capabilities, architectures, tools, and emerging frameworks
+- Evaluate agentic patterns and help technical teams make informed technology decisions
+- Experiment with RAG, MCP, multi-agent systems, and LLM orchestration
+- Turn technical concepts into practical, working implementations
 
-**Professional philosophy:** Learn continuously. Experiment fearlessly. Build things that solve real problems.
+## Currently Exploring
 
-## 📈 Building in Public
-
-I believe consistency matters more than contribution counts.
-I use GitHub to document my learning, experiment with emerging
-technologies, build practical solutions, and continuously improve
-as an engineer.
-
-Explore my pinned repositories below for hands-on projects, AI experiments, and engineering implementations.
+- Advanced agentic AI architectures and multi-agent orchestration
+- LangGraph workflows, state management, and human-in-the-loop patterns
+- Model Context Protocol and tool integrations
+- RAG evaluation, retrieval optimization, and LLM observability
+- Responsible AI and production-grade GenAI applications
 
 ---
 
-## 🧠 Tech Arsenal
+## Tech Stack
 
-### Generative AI & Agentic AI
+**Generative AI & Agentic AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
@@ -60,7 +57,7 @@ Explore my pinned repositories below for hands-on projects, AI experiments, and 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square)
 
-### Programming & Development
+**Programming & Development**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -70,7 +67,7 @@ Explore my pinned repositories below for hands-on projects, AI experiments, and 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### AI, Cloud & Engineering Tools
+**Cloud, Data & Engineering Tools**
 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Oracle Digital Assistant](https://img.shields.io/badge/Oracle%20Digital%20Assistant-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -82,65 +79,50 @@ Explore my pinned repositories below for hands-on projects, AI experiments, and 
 
 ---
 
-## 📊 GitHub at a Glance
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SAKET-SK&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SAKET-SK&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SAKET-SK&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SK&theme=tokyonight)
 
 </div>
 
+I use GitHub to document my learning, experiment with emerging technologies, and build practical solutions. Explore my pinned repositories for hands-on projects and AI experiments.
+
 ---
 
-## 🏆 Certifications & Learning
+## Certifications & Learning
 
 - Oracle Cloud Infrastructure Generative AI Professional
 - Oracle Digital Assistant Platform Solution Engineer Specialist
-- Reinvention with Agentic AI Learning Program — Accenture, powered by Stanford HAI
-
-I'm a strong believer that technology never stands still, and neither should learning.
+- Reinvention with Agentic AI Learning Program, Accenture (powered by Stanford HAI)
 
 ---
 
-## ✍️ Writing & Knowledge Sharing
+## Writing & Knowledge Sharing
 
-I enjoy documenting what I learn and sharing perspectives across technology, psychology, gaming, and education.
+I document what I learn and share perspectives across technology, psychology, gaming, and education.
 
 | Platform | Focus |
 |---|---|
 | [Psyche & Syntax](https://www.linkedin.com/newsletters/psyche-syntax-7316897806626054144) | Technology, psychology & ideas |
-| [AI/ML/DS](https://learnaimldswithsk.hashnode.dev/) | AI, ML & Data Science |
+| [AI/ML/DS](https://learnaimldswithsk.hashnode.dev/) | AI, ML & data science |
 | [Technical Blogs](https://saketsk.hashnode.dev/) | Software development & technology |
+| [DSA with Python](https://jsprep.hashnode.dev/) | Programming & interview preparation |
 | [EdTech Blog](https://saketrobotics910.blogspot.com/) | Education & technology |
 | [Psych Time](https://saketkhopkar567.blogspot.com/) | Psychology & human behaviour |
-| [DSA with Python](https://jsprep.hashnode.dev/) | Programming & interview preparation |
 | [World of eSports](https://saketskgames.blogspot.com/) | Gaming & esports |
 
 ---
 
-## 🔭 What I'm Exploring
+## Let's Connect
 
-- Advanced Agentic AI architectures and multi-agent orchestration.
-- LangGraph workflows, state management, and human-in-the-loop patterns.
-- Model Context Protocol and tool integrations.
-- RAG evaluation, retrieval optimization, and LLM observability.
-- Responsible AI and production-grade GenAI applications.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing AI engineering, LLMs, Agentic AI, software development, and interesting technical experiments.
+I'm always interested in discussing AI engineering, LLMs, agentic AI, software development, and interesting technical experiments.
 
 <div align="center">
 
